@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Build
+build
+
+# Test
+coverage
+
+# Environments
+.env
